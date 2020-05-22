@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Constants;
+using JHchoi.Constants;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class ScheduleStage_Controller : MonoBehaviour
     {

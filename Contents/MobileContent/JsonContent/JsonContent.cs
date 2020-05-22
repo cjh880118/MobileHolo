@@ -1,6 +1,6 @@
-﻿using CellBig.Constants;
-using CellBig.Models;
-using CellBig.UI.Event;
+﻿using JHchoi.Constants;
+using JHchoi.Models;
+using JHchoi.UI.Event;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.IO;
 using System.Text;
 using UnityEngine;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class JsonContent : IContent
     {

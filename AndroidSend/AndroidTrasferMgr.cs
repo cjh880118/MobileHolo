@@ -1,12 +1,12 @@
-﻿using CellBig.Constants;
+﻿using JHchoi.Constants;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Models;
-using CellBig.Contents;
+using JHchoi.Models;
+using JHchoi.Contents;
 using System;
 
-namespace CellBig.Android
+namespace JHchoi.Android
 {
     public class AndroidTrasferMgr : MonoBehaviour
     {

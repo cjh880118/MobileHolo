@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using CellBig.Android;
-using CellBig.Constants;
-using CellBig.UI.Event;
+using JHchoi.Android;
+using JHchoi.Constants;
+using JHchoi.UI.Event;
 using System;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class MusicDialog : IDialog
     {

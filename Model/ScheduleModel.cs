@@ -1,10 +1,10 @@
-﻿using CellBig.Contents;
+﻿using JHchoi.Contents;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace CellBig.Models
+namespace JHchoi.Models
 {
     public class ScheduleModel : Model
     {

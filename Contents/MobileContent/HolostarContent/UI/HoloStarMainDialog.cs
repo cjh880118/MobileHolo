@@ -1,5 +1,5 @@
-﻿using CellBig.Constants;
-using CellBig.UI.Event;
+﻿using JHchoi.Constants;
+using JHchoi.UI.Event;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Midiazen;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class HoloStarMainDialog : IDialog
     {

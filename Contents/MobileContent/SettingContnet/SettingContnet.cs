@@ -2,12 +2,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Models;
-using CellBig.UI.Event;
-using CellBig.Constants;
-using CellBig.Android;
+using JHchoi.Models;
+using JHchoi.UI.Event;
+using JHchoi.Constants;
+using JHchoi.Android;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class SettingContnet : IContent
     {

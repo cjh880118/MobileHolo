@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using CellBig.UI.Event;
-using CellBig.Constants;
+using JHchoi.UI.Event;
+using JHchoi.Constants;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class Schedule_Item_Controller : MonoBehaviour
     {

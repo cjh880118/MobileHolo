@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using CellBig.UI.Event;
+using JHchoi.UI.Event;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class AloneGameScheduleChangeOKDialog : IDialog
     {

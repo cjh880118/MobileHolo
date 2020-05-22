@@ -1,13 +1,13 @@
-﻿using CellBig.UI.Event;
+﻿using JHchoi.UI.Event;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Models;
-using CellBig.Android;
-using CellBig.Constants;
+using JHchoi.Models;
+using JHchoi.Android;
+using JHchoi.Constants;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class MusicContent : IContent
     {

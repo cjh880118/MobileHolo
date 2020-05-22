@@ -2,7 +2,7 @@
 using System.Collections;
 using System;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
 	public abstract class IContent : MonoBehaviour
 	{

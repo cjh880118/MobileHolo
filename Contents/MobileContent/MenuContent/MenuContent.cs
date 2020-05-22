@@ -2,13 +2,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.UI.Event;
-using CellBig.Constants;
-using CellBig.Models;
-using CellBig.Android;
-using CellBig.UI;
+using JHchoi.UI.Event;
+using JHchoi.Constants;
+using JHchoi.Models;
+using JHchoi.Android;
+using JHchoi.UI;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class MenuContent : IContent
     {

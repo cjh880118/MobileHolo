@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.UI.Event;
-using CellBig.Models;
+using JHchoi.UI.Event;
+using JHchoi.Models;
 using System;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class AndroidContent : IContent
     {

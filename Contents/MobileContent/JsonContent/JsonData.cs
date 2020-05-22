@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Constants;
+using JHchoi.Constants;
 using System;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     [Serializable]
     public class GameSchedule

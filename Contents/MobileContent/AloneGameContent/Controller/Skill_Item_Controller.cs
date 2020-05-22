@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using CellBig.UI.Event;
-using CellBig.Constants;
+using JHchoi.UI.Event;
+using JHchoi.Constants;
 using System;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class Skill_Item_Controller : MonoBehaviour
     {

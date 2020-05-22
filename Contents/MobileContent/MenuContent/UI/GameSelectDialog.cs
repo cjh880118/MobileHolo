@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using CellBig.Constants;
-using CellBig.UI.Event;
+using JHchoi.Constants;
+using JHchoi.UI.Event;
 
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class GameSelectDialog : IDialog
     {

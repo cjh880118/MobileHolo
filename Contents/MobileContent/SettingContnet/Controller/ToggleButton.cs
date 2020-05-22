@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using CellBig.Constants;
-using CellBig.UI.Event;
+using JHchoi.Constants;
+using JHchoi.UI.Event;
 using System;
 
 public class ToggleButton : MonoBehaviour

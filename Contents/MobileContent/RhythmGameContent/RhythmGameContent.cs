@@ -1,15 +1,15 @@
-﻿using CellBig.UI.Event;
+﻿using JHchoi.UI.Event;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Models;
-using CellBig.Constants;
+using JHchoi.Models;
+using JHchoi.Constants;
 
-using CellBig.UI;
+using JHchoi.UI;
 using Random = UnityEngine.Random;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class RhythmGameContent : IContent
     {

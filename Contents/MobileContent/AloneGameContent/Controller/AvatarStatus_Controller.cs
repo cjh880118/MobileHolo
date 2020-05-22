@@ -1,12 +1,12 @@
-﻿using CellBig.Contents;
-using CellBig.UI.Event;
+﻿using JHchoi.Contents;
+using JHchoi.UI.Event;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class AvatarStatus_Controller : MonoBehaviour
     {

@@ -1,11 +1,11 @@
-﻿using CellBig.Constants;
-using CellBig.Contents;
+﻿using JHchoi.Constants;
+using JHchoi.Contents;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace CellBig.UI.Event
+namespace JHchoi.UI.Event
 {
     public class AloneGameRunMenuMsg : Message
     {

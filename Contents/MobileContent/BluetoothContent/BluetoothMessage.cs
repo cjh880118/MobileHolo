@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Constants;
+using JHchoi.Constants;
 using System;
-using CellBig.Contents;
+using JHchoi.Contents;
 
-namespace CellBig.UI.Event
+namespace JHchoi.UI.Event
 {
     public class BluetoothListMsg : Message
     {

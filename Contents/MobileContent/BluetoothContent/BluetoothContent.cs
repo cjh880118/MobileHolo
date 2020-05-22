@@ -1,14 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Android;
-using CellBig.UI.Event;
+using JHchoi.Android;
+using JHchoi.UI.Event;
 using System;
-using CellBig.Constants;
-using CellBig.Models;
+using JHchoi.Constants;
+using JHchoi.Models;
 using Midiazen;
 
-namespace CellBig.Contents
+namespace JHchoi.Contents
 {
     public class BluetoothContent : IContent
     {

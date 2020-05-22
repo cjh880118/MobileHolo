@@ -1,11 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Constants;
-using CellBig.Contents;
+using JHchoi.Constants;
+using JHchoi.Contents;
 using System.Linq;
 
-namespace CellBig.Models
+namespace JHchoi.Models
 {
     public class PlayerInventoryModel : Model
     {

@@ -1,11 +1,11 @@
-﻿using CellBig.Constants;
-using CellBig.UI.Event;
+﻿using JHchoi.Constants;
+using JHchoi.UI.Event;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class StoreCashDialog : IDialog
     {

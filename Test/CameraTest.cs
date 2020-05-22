@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using CellBig.Android;
+using JHchoi.Android;
 
 public class CameraTest : MonoBehaviour
 {

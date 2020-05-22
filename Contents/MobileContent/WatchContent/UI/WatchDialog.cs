@@ -1,14 +1,14 @@
-﻿using CellBig.UI.Event;
+﻿using JHchoi.UI.Event;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using UnityEngine;
 using UnityEngine.UI;
-using CellBig.Constants;
-using CellBig.Android;
+using JHchoi.Constants;
+using JHchoi.Android;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class WatchDialog : IDialog
     {

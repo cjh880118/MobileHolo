@@ -1,10 +1,10 @@
-﻿using CellBig.UI.Event;
-using CellBig.Android;
-using CellBig.Constants;
+﻿using JHchoi.UI.Event;
+using JHchoi.Android;
+using JHchoi.Constants;
 using UnityEngine.UI;
 using System;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class SettingMainDialog : IDialog
     {

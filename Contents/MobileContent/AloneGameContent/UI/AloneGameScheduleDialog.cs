@@ -1,12 +1,12 @@
-﻿using CellBig.UI.Event;
-using CellBig.Contents;
+﻿using JHchoi.UI.Event;
+using JHchoi.Contents;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace CellBig.UI
+namespace JHchoi.UI
 {
     public class AloneGameScheduleDialog : IDialog
     {

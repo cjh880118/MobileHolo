@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 
 
-namespace CellBig.Models
+namespace JHchoi.Models
 {
     public class NoteModel : Model
     {
